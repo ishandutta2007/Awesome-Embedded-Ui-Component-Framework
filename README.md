@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Embedded-Ui-Component-Framework/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Embedded-Ui-Component-Framework?style=flat-square&logo=github" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Embedded-Ui-Component-Framework/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Embedded-Ui-Component-Framework?style=flat-square&logo=github" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Embedded-Ui-Component-Framework/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Embedded-Ui-Component-Framework?style=flat-square&logo=github" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Embedded-Ui-Component-Framework/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Embedded-Ui-Component-Framework?style=flat-square" alt="Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Embedded-Ui-Component-Framework/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square" alt="License" /></a>
@@ -70,7 +70,7 @@ The embedded analytics and UI component integration market is estimated at appro
 
 ## 💻 Open-Source GitHub Projects
 
-Curated list of open-source frameworks, low-code platforms, embeddable SDKs, and form generators, **sorted descending by GitHub star count**.
+Curated list of open-source frameworks, low-code platforms, embeddable SDKs, and form generators, **sorted descending by GitHub Stars_Count**.
 
 1. **[Apache Superset](https://github.com/apache/superset)** <a href="https://github.com/apache/superset/stargazers"><img src="https://img.shields.io/github/stars/apache/superset?style=social&color=white" alt="Apache Superset Stars" /></a>  
    Enterprise-grade data exploration and business intelligence visualization platform (Apache-2.0). Provides the official `@superset-ui/embedded-sdk` for seamlessly embedding interactive dashboards into customer applications via guest token authentication and secure iframes.
